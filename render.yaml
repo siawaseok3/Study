@@ -1,0 +1,7 @@
+# render.yaml
+
+name: square-root-site
+type: static
+build:
+  publish: ./publish
+  command: ""  # Static site, no build command necessary
